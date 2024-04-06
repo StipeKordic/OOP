@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP rjesenja zadataka.iml" filepath="$PROJECT_DIR$/.idea/OOP rjesenja zadataka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_DEM1/OOP_DEM1.iml" filepath="$PROJECT_DIR$/OOP_DEM1/OOP_DEM1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_DEM2/OOP_DEM2.iml" filepath="$PROJECT_DIR$/OOP_DEM2/OOP_DEM2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_DEM3/OOP_DEM3.iml" filepath="$PROJECT_DIR$/OOP_DEM3/OOP_DEM3.iml" />
+    </modules>
+  </component>
+</project>
