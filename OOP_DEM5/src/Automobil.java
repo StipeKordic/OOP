@@ -1,4 +1,4 @@
-public class Automobil extends Vozilo{
+public class Automobil extends Vozilo implements Pokretljivo{
 
     private int brojVrata;
 
@@ -9,5 +9,9 @@ public class Automobil extends Vozilo{
 
     public void pokreniMotor(){
         System.out.println("Automobil je pokrenut");
+    }
+
+    public void kreciSe(){
+        System.out.println("Automobil se kreća");
     }
 }
